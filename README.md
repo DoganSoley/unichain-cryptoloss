@@ -23,7 +23,7 @@ Ben [Hetzner](https://console.hetzner.cloud/)'in "CAX31" sunucusunu kiraladım 1
 ![image](https://github.com/user-attachments/assets/6cce0142-6953-4f1c-ad75-eaf4a325916e)
 
 
-Kurulumu tek kod halinde bu script ile yapabilirsiniz :
+Kurulumu tek kod halinde bu script ile yapabilirsiniz sunucuya bağlandıktan sonra direkt bu kodu yapıştırın :
 
 ```
 wget https://raw.githubusercontent.com/DoganSoley/unichain-cryptoloss/refs/heads/main/script.sh && chmod +x script.sh && ./script.sh
