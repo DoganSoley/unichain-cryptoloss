@@ -21,3 +21,16 @@ Ubuntu 22.04
 Ben [Hetzner](https://console.hetzner.cloud/)'in "CAX31" sunucusunu kiraladım 16ram 8cpu (lokasyonu helsinki yapıp işlemciyi ampere olarak seçmeniz gerekiyor)
 
 ![image](https://github.com/user-attachments/assets/6cce0142-6953-4f1c-ad75-eaf4a325916e)
+
+
+Kurulumu tek kod halinde bu script ile yapabilirsiniz :
+
+```
+wget https://raw.githubusercontent.com/DoganSoley/unichain-cryptoloss/refs/heads/main/script.sh && chmod +x script.sh && ./script.sh
+```
+
+Yükleme bittikten sonra log kontrol için :
+
+```
+docker logs -f unichain-node-execution-client-1
+```
