@@ -19,7 +19,7 @@ echo -e "${BLUE}##       ##   ##      ##    ##           ##    ##     ## ##     
 echo -e "${BLUE}##    ## ##    ##     ##    ##           ##    ##     ## ##       ##     ## ##    ## ##    ##${NC}"
 echo -e "${BLUE} ######  ##     ##    ##    ##           ##     #######  ########  #######   ######   ######${NC}"
 echo " "
-echo -e "${GREEN}#### Twitter : @Cryptoloss1 #####${NC}"
+echo " "
 echo " "
 echo " "
 
@@ -83,8 +83,6 @@ echo -e "${BLUE}##    ## ##    ##     ##    ##           ##    ##     ## ##     
 echo -e "${BLUE} ######  ##     ##    ##    ##           ##     #######  ########  #######   ######   ######${NC}"
 echo " "
 echo -e "${GREEN}#### Twitter : @Cryptoloss1 #####${NC}"
-echo " "
-echo " "
 echo " "
 echo -e "${GREEN}Unichain Node kurulumu tamamlandı.${NC}"
 echo " "
