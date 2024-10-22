@@ -61,7 +61,7 @@ sed -i 's|OP_NODE_L1_BEACON=.*|OP_NODE_L1_BEACON=https://ethereum-sepolia-beacon
 # Node başlatma
 echo "UniChain node başlatılıyor..."
 docker-compose up -d
-echo -e "${GREEN}Ora Protokol node'u başlatılıyor 5-10dk kadar sürebilir...${NC}"
+echo -e "${GREEN}Unichain node'u başlatılıyor..${NC}"
 echo " "
 echo " "
 # Node kontrolü
