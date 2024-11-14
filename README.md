@@ -41,6 +41,8 @@ docker logs -f unichain-node-execution-client-1
 
 ## Kurulumu yaptıktan sonra bu kod ile cüzdan private key'i alıp bir yere kaydedin(burası videoda yok)
 
+Daha önce kurduysanız da sunucuya bağlanıp direkt bu kodu yapıştırabilirsiniz.
+
 ```
 nano /root/unichain-node/geth-data/geth/nodekey
 ```
