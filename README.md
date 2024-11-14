@@ -37,9 +37,9 @@ Yükleme bittikten sonra log kontrol için :
 docker logs -f unichain-node-execution-client-1
 ```
 
-## ÖNEMLİ !
+# ÖNEMLİ !
 
-# Kurulumu yaptıktan sonra bu kod ile cüzdan private key'i alıp bir yere kaydedin(burası videoda yok)
+## Kurulumu yaptıktan sonra bu kod ile cüzdan private key'i alıp bir yere kaydedin(burası videoda yok)
 
 ```
 nano /root/unichain-node/geth-data/geth/nodekey
