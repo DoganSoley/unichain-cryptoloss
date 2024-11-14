@@ -22,6 +22,8 @@ Ben [Hetzner](https://console.hetzner.cloud/)'in "CAX31" sunucusunu kiraladım 1
 
 ![image](https://github.com/user-attachments/assets/6cce0142-6953-4f1c-ad75-eaf4a325916e)
 
+Kurulumu yaptıktan sonra bu kod ile cüzdan private key'i alıp bir yere kaydedin
+
 
 Kurulumu tek kod halinde bu script ile yapabilirsiniz sunucuya bağlandıktan sonra direkt bu kodu yapıştırın :
 
@@ -33,4 +35,12 @@ Yükleme bittikten sonra log kontrol için :
 
 ```
 docker logs -f unichain-node-execution-client-1
+```
+
+## ÖNEMLİ !
+
+# Kurulumu yaptıktan sonra bu kod ile cüzdan private key'i alıp bir yere kaydedin(burası videoda yok)
+
+```
+nano /root/unichain-node/geth-data/geth/nodekey
 ```
